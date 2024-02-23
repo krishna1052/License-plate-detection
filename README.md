@@ -16,6 +16,7 @@ To ensure the reliability and accuracy of the system, rigorous validation proced
 - Overall System Accuracy: Calculating the overall accuracy of the entire license plate recognition system in retrieving and presenting the correct license plate number.
 
 ### Architecture
-![System Architecture(https://camo.githubusercontent.com/6dccc57ac144490b4cb0bd79c6dac6e25071b3f639bde37ddc32ec82b579f780/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a5f75586971386e355176517a6c4a4c4e6a5a524c53672e706e67)]
+![System Architecture](https://github.com/krishna1052/License-plate-detection/assets/95615695/68407f08-0747-4dd5-b92e-ae5c251bc904)
 
-![Flattening the node data to represent it in a single dimension(https://camo.githubusercontent.com/475c43813a5efe7db6830421ff3f24e868a19164d2e630954e67e7f78f1ec6a8/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f323030302f312a424c50357a45445763366b77427054684d356a466a512e706e67)]
+![Flattening the node data to represent it in a single dimension](https://github.com/krishna1052/License-plate-detection/assets/95615695/c49d5545-e3bb-4412-80ac-2239aeabf0a6)
+
