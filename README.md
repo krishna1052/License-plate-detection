@@ -18,9 +18,28 @@ To ensure the reliability and accuracy of the system, rigorous validation proced
 ### Architecture
 ![System Architecture](https://github.com/krishna1052/License-plate-detection/assets/95615695/68407f08-0747-4dd5-b92e-ae5c251bc904)
 
-System Architecture
+**System Architecture**
 
 ![Flattening the node data to represent it in a single dimension](https://github.com/krishna1052/License-plate-detection/assets/95615695/c49d5545-e3bb-4412-80ac-2239aeabf0a6)
 
-Flattening the node data to represent it in a single dimension
+**Flattening the node data to represent it in a single dimension**
+
+![image](https://github.com/krishna1052/License-plate-detection/assets/95615695/04943774-ec87-49b2-bb56-d9fa63467584)
+
+**Training CNN model**
+
+## Results
+The model trained for 18 epochs achieved an outstanding accuracy of 88.67% using the provided dataset. This remarkable performance highlights the effectiveness of the chosen approach and techniques in recognizing alphabets (A-Z) and digits (0–9) from 28x28 images. Augmenting the training data with techniques like width and height shift using the ImageDataGenerator class in Keras contributed to the model's robustness and generalization.
+
+![image](https://github.com/krishna1052/License-plate-detection/assets/95615695/55d9f7dd-c2f4-414a-940c-25fb2aad9e7e)
+
+![image](https://github.com/krishna1052/License-plate-detection/assets/95615695/e1765fbd-3b86-4752-9038-3de153044f47)
+
+![image](https://github.com/krishna1052/License-plate-detection/assets/95615695/da828d5b-9214-4c57-bba0-206fbb31b034)
+
+These results mark a significant milestone in character recognition, paving the way for further advancements and improved efficiency in various applications.
+
+
+
+
 
