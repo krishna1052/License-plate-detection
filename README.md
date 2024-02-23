@@ -17,6 +17,8 @@ To ensure the reliability and accuracy of the system, rigorous validation proced
 
 ### Architecture
 ![System Architecture](https://github.com/krishna1052/License-plate-detection/assets/95615695/68407f08-0747-4dd5-b92e-ae5c251bc904)
+System Architecture
 
 ![Flattening the node data to represent it in a single dimension](https://github.com/krishna1052/License-plate-detection/assets/95615695/c49d5545-e3bb-4412-80ac-2239aeabf0a6)
+Flattening the node data to represent it in a single dimension
 
