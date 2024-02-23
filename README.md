@@ -11,9 +11,9 @@ Data collection involved sourcing images from both publicly available datasets a
 
 To ensure the reliability and accuracy of the system, rigorous validation procedures were conducted using annotated ground truth data. Each image in the dataset was meticulously annotated to delineate the exact location and content of license plates, including individual characters. The annotations served as reference points for evaluating the system's performance across different metrics. To comprehensively evaluate the system's performance, multiple key metrics are employed:
 
-- Character Segmentation Accuracy: Gauging the system's accuracy in segmenting individual characters from license plates.
-- Character Recognition Accuracy: Assessing the CNN model's accuracy in recognizing and interpreting segmented characters.
-- Overall System Accuracy: Calculating the overall accuracy of the entire license plate recognition system in retrieving and presenting the correct license plate number.
+- **Character Segmentation Accuracy**: Gauging the system's accuracy in segmenting individual characters from license plates.
+- **Character Recognition Accuracy**: Assessing the CNN model's accuracy in recognizing and interpreting segmented characters.
+- **Overall System Accuracy**: Calculating the overall accuracy of the entire license plate recognition system in retrieving and presenting the correct license plate number.
 
 ### Architecture
 ![System Architecture](https://github.com/krishna1052/License-plate-detection/assets/95615695/68407f08-0747-4dd5-b92e-ae5c251bc904)
